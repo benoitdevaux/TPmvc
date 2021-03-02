@@ -2,7 +2,7 @@
 abstract class Model{
     //Informations de la base de données (BDD)
     private $host = "localhost";
-    private $db_name = "mvc";
+    private $db_name = "monsite";
     private $username = "root";
     private $password = "";
     
